@@ -15,10 +15,6 @@ The source code, pre-trained models, and configuration files are currently being
 
 Please stay tuned!
 
-## 📝 Abstract
-
-Vision-language models (VLMs) have shown impressive generalization capabilities... (此处粘贴你论文的Abstract)... Extensive experiments on CIFAR-10/100-C and Tiny-ImageNet-C demonstrate that ProtoDCS achieves state-of-the-art performance.
-
 ## 📧 Contact
 
-If you have any questions, please feel free to create an issue or contact [Your Name] at [Your Email].
+If you have any questions, please feel free to create an issue or contact us at swouyangfan@163.com.
