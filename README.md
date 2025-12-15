@@ -7,7 +7,7 @@
 This repository contains the official implementation of the paper *ProtoDCS*, which has been submitted to **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**.
 
 ## 📢 News
-*   **[Date]**: The paper is submitted to IEEE TCSVT.
+*   **[20251216]**: The paper is submitted to IEEE TCSVT.
 
 ## 🚀 Code Availability
 
